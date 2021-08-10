@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Xianghao Xu (徐湘灏）
 
-You can use the [editor on GitHub](https://github.com/xuxianghao1993/xuxianghao1993.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Assistent Professor,
+School of Computer Science and Engineering,
+Nanjing University of Science and Technology,
+Nanjing, China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: xianghao@njust.edu.cn
 
-### Markdown
+## Biography
+I received a Ph.D. degree in computer science from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2021, supervised by professor Fang Wang. I am currently an assistant professor in School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. My research interests cover big data processing, computer architecture, and parallel and distributed computing. I especially focus on building processing system for large-scale graph data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+Huazhong University of Science and Technology, Wuhan, China
+2015 - 2021，
+Ph.D. , Computer Science
 
-# Header 1
-## Header 2
-### Header 3
+Liaoning University, Shenyang, China
+2011 - 2015，
+B.S., Computer Science
 
-- Bulleted
-- List
+## Selected Publications
 
-1. Numbered
-2. List
+GraphCP: An I/O-Efficient Concurrent Graph Processing Framework.
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang, Peng Fang，
+International Symposium on Quality of Service 2021
 
-**Bold** and _Italic_ and `Code` text
+A Hybrid Update Strategy for I/O-Efficient Out-of-Core Graph Processing.
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang，
+ IEEE Transactions on Parallel and Distributed Systems, 2020, 31(8): 1767-1782
 
-[Link](url) and ![Image](src)
-```
+LOSC: Efficient Out-of-Core Graph Processing with Locality-optimized Subgraph Construction.
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Yu Hua, Dan Feng, Yongxuan Zhang，
+International Symposium on Quality of Service 2019
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+HUS-Graph: I/O-Efficient Out-of-Core Graph Processing with Hybrid Update Strategy.
+Xianghao Xu, Fang Wang, Hong Jiang, Yongli Cheng, Dan Feng, Yongxuan Zhang，
+International Conference on Parallel Processing 2018
 
-### Jekyll Themes
+## Honors
+Guoguang Student Scholarship by Wuhan National Laboratory for Optoelectronics in 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuxianghao1993/xuxianghao1993.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Zhixing Scholarship by Huazhong University of Science and Technology in 2019
