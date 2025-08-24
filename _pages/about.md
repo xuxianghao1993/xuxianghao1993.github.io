@@ -15,8 +15,8 @@ has several publications in major international conferences and journals, includ
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Our paper "Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing" is accepted by SC'25.
+- *2025.06*: &nbsp;🎉🎉 We got funded by the the open project program of the national key laboratory for novel software technology, Nanjing University. 
 
 # 📝 Publications 
 
