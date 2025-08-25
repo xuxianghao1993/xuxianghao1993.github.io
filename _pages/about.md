@@ -57,15 +57,16 @@ has several publications in major international conferences and journals, includ
 [pdf](https://ranger.uta.edu/~jiang/publication/Conferences/2018/2018-ICPP2-HUS-Graph-%20I:O-Efficient%20Out-of-Core%20Graph%20Processing%20with%20Hybrid%20Update%20Strategy.pdf)
 
 # 🎖 Honors and Awards
-- *2022.09* High-Level Innovation and Entrepreneurship Doctor of Jiangsu Province 
+- *2022.09*, High-Level Innovation and Entrepreneurship Doctor of Jiangsu Province 
 
 # 📖 Educations
 - *2015.09 - 2021.06*, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Ph.D..
 - *2011.09 - 2015.07*, Faculty of Information, Liaoning University, B.E.. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09*, Dependency-driven Out-of-Core Graph Processing, Hunan University Of Technology and Business, Changsha, China. 
+- *2022.10*, Large-Scale Out-of-Core Graph Processing, Huawei, Nanjing, China.
+- *2022.06*, GraphSD: A State and Dependency aware Out-of-Core Graph Processing System, Zhejiang Lab, Hangzhou, China.  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Teaching
+- Computer Organization, for undergraduates, Fall 2024.
