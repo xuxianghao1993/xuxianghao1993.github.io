@@ -24,7 +24,7 @@ has several publications in major international conferences and journals, includ
 [pdf](https://doi.org/10.1145/3712285.3759851)
 
 - An Efficient SSSP Algorithm on Time-Evolving Graphs with Prediction of Computation Results，Yongli Cheng, Chuanjie Huang, Hong Jiang, **Xianghao Xu (corresponding author)**, Fang Wang, Journal of Parallel and Distributed Computing (CCF B), 2024.
-[pdf]([https://ranger.uta.edu/~jiang/publication/Journals/2024/JPDC(SSSP%20algorithm,%20Yongli%20Cheng).pdf])
+[pdf](https://ranger.uta.edu/~jiang/publication/Journals/2024/JPDC(SSSP%20algorithm,%20Yongli%20Cheng).pdf)
 
 - TgStore: An Efficient Storage System for Large Time-Evolving Graphs，Yongli Cheng, Yan Ma, Hong Jiang, Lingfang Zeng, Fang Wang, **Xianghao Xu (corresponding author)**, IEEE Transactions on Big Data (JCR Q1), 2024.
 [pdf](https://ranger.uta.edu/~jiang/publication/Journals/2024/IEEE-TBD(TgStore).pdf)
