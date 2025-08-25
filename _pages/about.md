@@ -21,9 +21,13 @@ has several publications in major international conferences and journals, includ
 # 📝 Publications 
 
 - Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing, **Xianghao Xu**, Yucheng Zhang, Gongxuan Zhang, Yongli Cheng, Fang Wang, SC'25 (CCF A).
-[pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[pdf](https://doi.org/10.1145/3712285.3759851)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- An Efficient SSSP Algorithm on Time-Evolving Graphs with Prediction of Computation Results，Yongli Cheng, Chuanjie Huang, Hong Jiang, **Xianghao Xu (corresponding author)**, Fang Wang, Journal of Parallel and Distributed Computing (CCF B), 2024.
+[pdf]([https://ranger.uta.edu/~jiang/publication/Journals/2024/JPDC(SSSP%20algorithm,%20Yongli%20Cheng).pdf])
+
+- TgStore: An Efficient Storage System for Large Time-Evolving Graphs，Yongli Cheng, Yan Ma, Hong Jiang, Lingfang Zeng, Fang Wang, **Xianghao Xu (corresponding author)**, IEEE Transactions on Big Data (JCR Q1), 2024.
+[pdf](https://ranger.uta.edu/~jiang/publication/Journals/2024/IEEE-TBD(TgStore).pdf)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
