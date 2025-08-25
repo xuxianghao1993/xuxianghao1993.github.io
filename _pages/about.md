@@ -16,7 +16,7 @@ has several publications in major international conferences and journals, includ
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Our paper "Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing" is accepted by SC'25.
-- *2025.06*: &nbsp;🎉🎉 We got funded by the open project program of the national key laboratory for novel software technology, Nanjing University. 
+- *2025.06*: &nbsp;🎉🎉 We are funded by the State key Laboratory for Novel Software Technology, Nanjing University. 
 
 # 📝 Selected Publications 
 
@@ -57,8 +57,7 @@ has several publications in major international conferences and journals, includ
 [pdf](https://ranger.uta.edu/~jiang/publication/Conferences/2018/2018-ICPP2-HUS-Graph-%20I:O-Efficient%20Out-of-Core%20Graph%20Processing%20with%20Hybrid%20Update%20Strategy.pdf)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09* High-Level Innovation and Entrepreneurship Doctor of Jiangsu Province 
 
 # 📖 Educations
 - *2015.09 - 2021.06*, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Ph.D..
