@@ -10,8 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xianghao Xu is currently an assistant professor in School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. He received the PhD degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021, supervised by Prof. Fang Wang. His current main research interests include graph computing and learning, big data storage, and parallel and distributed processing. He
-has several publications in major international conferences and journals, including SC, IEEE TPDS, IEEE TBD, JPDC, ICPP, IWQoS, and FCS.
+I am currently an assistant professor in School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. I received the PhD degree from Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China, in 2021, supervised by Prof. Fang Wang. My current main research interests include graph computing and learning, big data storage, and parallel and distributed processing. He has several publications in major international conferences and journals, including SC, IEEE TPDS, IEEE TBD, JPDC, ICPP, IWQoS, and FCS.  If you are interested in any form of academic cooperation, please feel free to contact me at xianghao@njust.edu.cn.
 
 
 # 🔥 News
