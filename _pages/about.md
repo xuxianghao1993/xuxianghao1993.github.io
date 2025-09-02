@@ -14,6 +14,7 @@ I am currently an assistant professor in School of Computer Science and Engineer
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 We are funded by NSFC. 
 - *2025.06*: &nbsp;🎉🎉 Our paper "Graphago: Accelerating SSD-based Graph Processing via Activity-Aware Graph Preprocessing" is accepted by SC'25.
 - *2025.06*: &nbsp;🎉🎉 We are funded by the State key Laboratory for Novel Software Technology, Nanjing University. 
 
