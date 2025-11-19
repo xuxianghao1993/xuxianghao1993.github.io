@@ -69,4 +69,4 @@ I am currently an assistant professor in School of Computer Science and Engineer
 - *2022.06*, GraphSD: A State and Dependency aware Out-of-Core Graph Processing System, Zhejiang Lab, Hangzhou, China.  
 
 # 💻 Teaching
-- Computer Organization, for undergraduates, Fall 2024.
+- Computer Organization, for undergraduates, Fall 2025 and 2024.
